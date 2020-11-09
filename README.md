@@ -1,8 +1,27 @@
-# ARTH2020-18.16-Task-8
- Create a Menu Using Python integrating all the concepts.
-APACHE HADOOP BY                 : AKHIL SUKHNANI
-AWS CLI CONFIGURE BY             : NIRUPAM CHETAPALLI
-AWS CLOUD FRONT CONFIGURE BY     : FARHEEN RESHI
-APACHE WEBSERVER CONFIGURE BY    : SWARNIM KASHYAP
-CREATING DOCKER CONTAINER BY     : SWARNIM KASHYAP
-TROUBLESHOOTING BY               : AKHIL SUKHNANI
+![](logo.png)
+
+# ARTH-2020-Team 18.16 Task-8
+> Team 18.16 Repository for Task 8 of ARTH 2020
+
+## Task Description :
+***Menu Automation using Python***
+
+## Team Members:
+  **1. Akhil Sukhnani** 
+  - script.sh
+  - namenode.sh
+  - hdfs-site1.xml
+  - core-site.xml
+  - hadoop.py
+  **2. Farheen Reshi**
+  - cloud.py
+  
+  **3. Nirupam Chetapalli**
+  - awsss.py
+  
+  **4. Swarnim kashyap**
+  - docker.py
+  - webserver.py
+  
+  **5. Akhil Sukhnani** 
+  - Testing and Troubleshooting
